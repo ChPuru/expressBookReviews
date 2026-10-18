@@ -1,0 +1,3 @@
+$ curl -sS -X POST http://172.22.80.1:5000/register -H Content-Type:\ application/json -d \{\"username\":\"bookreview_user_1792334777\"\,\"password\":\"LabPass_1792334777_ChangeMe\"\}
+
+{"message":"User successfully registered. You can now log in."}
